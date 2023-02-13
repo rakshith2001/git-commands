@@ -4,3 +4,4 @@ some basic git commands are:
 * git touch <file name.format type> //used to create a folder with the extension type (eg touch example.txt)
 * git status // list all the files and gives their status
 * git add <filename(optional)> // as the name suggest it ads the file to the git repository(eg: git add names.txt) if you type only git add it will add everything, so if you want to specify a file you should use git add names.txt roll.txt
+* git commit -m <add comment> // this is to commit 
