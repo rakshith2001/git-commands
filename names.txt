@@ -5,4 +5,8 @@ some basic git commands are:
 * git status // list all the files and gives their status
 * git add <filename(optional)> // as the name suggest it ads the file to the git repository(eg: git add names.txt) if you type only git add it will add everything, so if you want to specify a file you should use git add names.txt roll.txt
 * git commit -m <add comment> // this is to commit 
-* git restore --staged <file name> // to delete a file s
+* git restore --staged <file name> // to delete a file 
+* rm // to delete a file
+* git reset <commit name> // used to restore to the the commit history
+* git stash // store files in seperate location
+* git stash pop // brings the files in seperate stored location
