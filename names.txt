@@ -10,3 +10,4 @@ some basic git commands are:
 * git reset <commit name> // used to restore to the the commit history
 * git stash // store files in seperate location
 * git stash pop // brings the files in seperate stored location
+* git stash clear // remove the seperatly stored storage
